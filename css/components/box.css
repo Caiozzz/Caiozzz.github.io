@@ -1,0 +1,11 @@
+.box {
+   background-color: #3A4042;
+   box-shadow: 10px 10px 0 black;
+   display: inline-block;
+   padding: 42px 40px;
+   text-align: center;
+}
+
+.box h1 {
+   margin-bottom: 28px;
+}
