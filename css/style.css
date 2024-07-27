@@ -21,6 +21,8 @@ nav, nav ul {
 
 nav li {
    list-style: square;
+   list-style-position: inside;
+   color: #00D6F3;
 }
 
 nav a {
