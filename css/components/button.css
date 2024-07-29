@@ -1,5 +1,8 @@
 .button {
    background-color: #00D6F3;
+   font-size: 20px;
+   font-weight: 500;
+   color: white;
    padding: 17px 20px;
    box-shadow: 5px 5px 0 black;
    transition: 0.1s;
