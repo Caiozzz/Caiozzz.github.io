@@ -3,6 +3,7 @@
    background-image: url(../../assets/img/fundo.jpg);
    background-size: cover;
    background-position: center;
+   border-bottom: 6px solid black;
    height: calc(100vh - 80px);
    padding-top: 116px;
    padding-left: 90px;
