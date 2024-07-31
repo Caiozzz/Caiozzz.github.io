@@ -6,10 +6,12 @@
    width: fit-content;
    column-gap: 27px;
    row-gap: 16px;
+   align-items: center;
 }
 
 .skill-tech .icon {
    grid-area: icon;
+   max-width: 80px;
 }
 
 .skill-tech .title {
