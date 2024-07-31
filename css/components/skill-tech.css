@@ -1,0 +1,24 @@
+.skill-tech {
+   display: grid;
+   grid-template-areas:
+   "icon title"
+   "icon progress";
+   width: fit-content;
+   column-gap: 27px;
+   row-gap: 16px;
+}
+
+.skill-tech .icon {
+   grid-area: icon;
+}
+
+.skill-tech .title {
+   grid-area: title;
+   font-family: 'Press Start 2P', sans-serif;
+   font-size: 25px;
+   color: white;
+}
+
+.skill-tech .progress-bar {
+   grid-area: progress;
+}
