@@ -1,0 +1,5 @@
+.projects-list {
+   margin: 80px auto 0;
+   display: flex;
+   justify-content: space-evenly;
+}
