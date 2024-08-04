@@ -1,4 +1,4 @@
-.header {
+.main-header {
    background-color: #0D1F21;
    color: white;
    display: flex;
@@ -7,11 +7,12 @@
    padding: 10px 20px;
 }
 
-.logo {
+.main-header .logo {
    width: 60px;
 }
 
-.navigation, .links {
+.main-header .navigation,
+.main-header .links {
    display: flex;
    align-items: center;
    gap: 30px;

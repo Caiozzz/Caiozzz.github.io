@@ -1,13 +1,13 @@
-.action {
+.action-link {
    font-size: 20px;
    font-weight: 500;
    list-style: square;
    list-style-position: inside;
 }
-.action::marker {
+.action-link::marker {
    color: #00D6F3;
 }
 
-.action a {
+.action-link a {
    color: white;
 }

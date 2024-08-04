@@ -1,4 +1,4 @@
-.banner {
+.main-banner {
    box-sizing: border-box;
    background-image: url(../../assets/img/fundo.jpg);
    background-size: cover;
@@ -9,14 +9,14 @@
    padding-left: 90px;
 }
 
-.banner .wrapper {
+.main-banner .wrapper {
    display: flex;
    flex-direction: column;
    width: fit-content;
    gap: 40px;
 }
 
-.wrapper .buttons {
+.main-banner .buttons {
    display: flex;
    justify-content: space-evenly;
 }
