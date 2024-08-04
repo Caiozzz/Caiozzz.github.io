@@ -1,4 +1,10 @@
 .main-section {
    background-color: #03b9d1;
+   border-bottom: 6px solid #0D1F21;
    padding: 50px 0 100px;
+}
+
+.main-section.-dark {
+   background-color: black;
+   border-color: #03b9d1;
 }
