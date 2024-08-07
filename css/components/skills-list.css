@@ -1,7 +1,7 @@
 .skills-list {
    height: 480px;
    width: fit-content;
-   margin: 80px auto 0;
+   margin: 0 auto;
    display: flex;
    flex-flow: column wrap;
    gap: 40px;
