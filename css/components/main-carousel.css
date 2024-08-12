@@ -1,0 +1,35 @@
+.main-carousel {
+   display: flex;
+   padding: 0 80px;
+   margin-bottom: 50px;
+   position: relative;
+}
+
+.main-carousel::before {
+   content: '';
+   box-sizing: border-box;
+   height: 5px;
+   width: 100%;
+   background-color: black;
+   position: absolute;
+   top: 30px;
+   left: 0;
+}
+
+.main-carousel .carousel-button {
+   position: absolute;
+   bottom: 70px;
+   transform: translateY(50%);
+}
+
+.main-carousel .carousel-button.-left {
+   left: 15px;
+}
+.main-carousel .carousel-button.-right {
+   right: 15px;
+}
+
+.main-carousel .wrapper {
+   width: 100%;
+   overflow: hidden;
+}
