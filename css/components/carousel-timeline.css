@@ -1,0 +1,6 @@
+.carousel-timeline {
+   width: 100%;
+   display: flex;
+   justify-content: space-around;
+   transition: all .2s ease-out;
+}
