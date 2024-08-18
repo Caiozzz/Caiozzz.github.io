@@ -1,0 +1,12 @@
+.main-form {
+   background-color: #3A4042;
+   padding: 50px 40px;
+}
+
+.main-form .form-input {
+   margin-bottom: 20px;
+}
+
+.main-form .form-input:last-of-type {
+   margin-bottom: 40px;
+}
