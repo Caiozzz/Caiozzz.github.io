@@ -6,9 +6,14 @@
    padding: 17px 20px;
    box-shadow: 5px 5px 0 black;
    display: inline-block;
+   border: none;
    transition: 0.1s;
 }
 .main-button:hover {
    animation: ease-in;
    background-color: #008a9c;
+}
+
+.main-button.-large {
+   width: 100%;
 }
